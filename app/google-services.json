@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977455434391",
+    "project_id": "pat-uas-49ead",
+    "storage_bucket": "pat-uas-49ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977455434391:android:13c99090c3fd2185edb7d2",
+        "android_client_info": {
+          "package_name": "com.example.pat_uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977455434391-knrtquqm607g81i1gn527dgebre79t8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRg2pS8IfXgSR5OEG4k550ewV_UMkO7w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977455434391-knrtquqm607g81i1gn527dgebre79t8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
